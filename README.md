@@ -2,7 +2,6 @@
 
 
 # Overview
-## Motivation
 Motivational videos on Youtube were at an all time high with the uptake in shorts consumption. However, there were a variety of styles behind utilised. I selected the below as they were simple (in theory) to create and for AB/split testing, simple changes are best as they differ across minimal variables allowing for comparison.
 
 [TODO: Analyise results?]
