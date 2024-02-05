@@ -79,8 +79,8 @@ ffmpeg_cmd = f"ffmpeg -i {input_file} -filter:v 'crop=ih*9/16:ih,scale=720:1280'
 subprocess.run(ffmpeg_cmd, shell=True, check=True)
 
 # Set your AWS credentials here
-aws_access_key_id = 'AKIAW6WAIBUV6MQCILS2'
-aws_secret_access_key = 'GfUKSciu2e2aBsHgjqFgANqHsldM1HOQhB0Ogbeb'
+aws_access_key_id = ''
+aws_secret_access_key = ''
 region_name = 'eu-west-1'
 
 # Set the path to your audio file here

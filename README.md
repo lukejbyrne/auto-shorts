@@ -1,12 +1,18 @@
 # To Run
 
+1. Update the below in auto_shorts.py with the Youtube video ID 
+ - video_id
+ - start_time
+ - duration
+2. Run auto_shorts.py to create the video files
+3. Run upload_shorts.py for Youtube upload OR triple_upload.py for Youtube, Tiktok, and Instagram
 
 # Overview
 Motivational videos on Youtube were at an all time high with the uptake in shorts consumption. However, there were a variety of styles behind utilised. I selected the below as they were simple (in theory) to create and for AB/split testing, simple changes are best as they differ across minimal variables allowing for comparison.
 
 [TODO: Analyise results?]
 
-To test the validity of this Youtube automation strategy I developed a script which given a Youtube video link and timecode, creates 6 short form pieces of content and uploads them to Youtube.
+To test the validity of this Youtube automation strategy I developed a script which given a Youtube video link and timecode, creates 6 short form pieces of content and uploads them to Youtube (this was then expended to triple upload to Youtube, Tiktok, Instagram).
 
 The 6 pieces of content are for purpose of split testing:
 1. Colour - with music
