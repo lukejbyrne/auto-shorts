@@ -1,8 +1,8 @@
 # Overview
-Motivational videos on YouTube were at an all-time high with the uptake in shorts consumption. However, there were a variety of styles behind utilised. I selected the below as they were simple (in theory) to create and for AB/split testing, simple changes are best as they differ across minimal variables allowing for comparison.
+Motivational videos on YouTube were at an all-time high with the uptake in shorts consumption. However, there were a variety of styles being utilised. I selected the below as they were simple (in theory) to create and for AB/split testing, simple changes are best as they differ across minimal variables allowing for comparison.
 
 # Results
-Colour and black-and-white formats with music and captions perform best due to their emotional appeal and engagement, while black screen styles, especially without music or captions, significantly underperform and lack viewer retention. Adding music and visually engaging elements boosts performance across all styles.
+Colour and black-and-white formats with music and captions perform best due to their emotional appeal and engagement, while black screen styles, especially without music or captions, significantly underperform and lack viewer retention. Adding music and visually engaging elements boosts performance across all styles. Boosted viewer engagement by 91% and increased views by over 2,000% through A/B testing and optimizing video formats with music, captions, and visuals.
 
 # Methodology
 To test the validity of this YouTube automation strategy I developed a script which gives a YouTube video link and timecode, creates 6 short-form pieces of content and uploads them to YouTube (this was then expended to triple upload to YouTube, Tiktok, and Instagram).
@@ -83,3 +83,14 @@ Code leverages Python libraries to:
 - **Best Practices:**
   - Combine visually engaging elements (e.g., colour or dramatic black-and-white visuals) with captions and music.
   - Tailor content to match the audience's preference for emotionally engaging, impactful storytelling.
+  - 
+
+## Numerical Analysis:
+1. Engagement Rate Analysis:
+- The highest engagement rate of 3.39% was achieved by the "Colour - No music and captions" format.
+- In contrast, the lowest engagement rate of 1.76% came from the "Black screen - with music and captions" format.
+- This reflects a 91.87% improvement in engagement when using captions and visually engaging content over less dynamic styles.
+
+2. View Count Analysis:
+- The most successful format, "Black and White - with music and captions," averaged 1,374 views, significantly outperforming the least effective format, "Black screen - No music and captions," which averaged only 109 views.
+- This represents an astounding 2,013.85% increase in views, showcasing the importance of combining strong visuals and audio for maximum viewer retention.
